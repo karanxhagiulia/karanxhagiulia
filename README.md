@@ -3,6 +3,8 @@
 - 🤔 I'd love to become proficient in data visualization
 - 👩‍💻 Interested in **Psychology, Cybersecurity, Ethics, UX** (other than Data!)
 - 🖌️	I love design and painting
+- 📫 How to reach me: **karanxhagiuliawork@gmail.com**
+
 <!-- Socials -->
 ![rainbow](https://user-images.githubusercontent.com/96819403/162638367-871d6d5a-f6ea-4c54-b53e-f8ebb1c8537b.png)
 
