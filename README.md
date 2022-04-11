@@ -1,6 +1,6 @@
 ## Hej hej! I'm Giulia 👋
 - 🌱 I’m currently learning **Data Analysis/Science**
-- 🤔 I'd love to become proficient in data visualization (with d3.js)
+- 🤔 I'd love to become proficient in data visualization
 - 👩‍💻 Interested in **Psychology, Cybersecurity, Ethics, UX** (other than Data!)
 - 🖌️	I love design and painting
 <!-- Socials -->
