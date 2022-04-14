@@ -1,6 +1,6 @@
 ## Hej hej! I'm Giulia 👋
 - 🌱 I’m currently learning **Data Analysis/Science**
-- 🤔 I'd love to become proficient in data visualization
+- 🤔 I'd love to become proficient in Data Visualization and Cybersecurity
 - 👩‍💻 Interested in **Psychology, Cybersecurity, Ethics, UX** (other than Data!)
 - 🖌️	I love design and painting
 - 📫 How to reach me: **karanxhagiuliawork@gmail.com**
