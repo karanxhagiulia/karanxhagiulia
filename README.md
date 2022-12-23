@@ -1,5 +1,5 @@
 ## Hej hej! I'm Giulia 👋
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently studying for a **Bachelor's in Business Administration in IT**
 - 🤔 I'd love to become proficient in Data Visualization and Cybersecurity
 - 👩‍💻 Interested in **Psychology, Social Engineering, Ethics, UX** (other than Data!)
 - 🖌️	I love design and painting
