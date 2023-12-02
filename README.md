@@ -55,9 +55,7 @@ Here are some ideas to get you started:
 
 </p>
 
-![rainbow](https://user-images.githubusercontent.com/96819403/162638367-871d6d5a-f6ea-4c54-b53e-f8ebb1c8537b.png)
 
- [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=karanxhagiulia&hide=html&layout=compact=true&theme=radical)](https://github.com/karanxhagiulia/)
  ![giphy (3)](https://user-images.githubusercontent.com/96819403/162638243-0400cecf-5309-4007-b293-20cd55d7f529.gif)
 
  
