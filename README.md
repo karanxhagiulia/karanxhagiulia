@@ -1,6 +1,6 @@
 ## Hej hej! I'm Giulia 👋
-- 🌱 I’m currently studying for a **Bachelor's in Business Administration in IT**
-- 🤔 I'd love to become proficient in Data Visualization and Project Management
+- 🌱 I’m currently studying for a **Bachelor's in Business Information**
+- 🤔 Im still learning!
 - 👩‍💻 Interested in **Psychology, Social Engineering, Ethics, UX** (other than Data!)
 - 🖌️	I love design and painting
 - 📫 How to reach me: **karanxhagiuliawork@gmail.com** and [my website](https://karanxhagiulia.github.io/)
