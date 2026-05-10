@@ -1,6 +1,6 @@
 ## Hej hej! I'm Giulia 👋
 
-I'm a **Data & AI Change Enablement Specialist** based in Barcelona, working at the intersection of **analytics, AI adoption, internal communications, learning programmes, and product usage measurement**.
+I'm a **Data Evangelist & Communication Specialist** based in Barcelona, working at the intersection of **analytics, AI adoption, internal communications, learning programmes, and product usage measurement**.
 
 I help teams understand and adopt complex data and AI capabilities by turning technical ecosystems into clear narratives, practical guidance, scalable learning resources, and measurable enablement strategies.
 
